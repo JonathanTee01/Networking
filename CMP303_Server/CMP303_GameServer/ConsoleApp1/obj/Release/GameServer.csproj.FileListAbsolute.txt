@@ -1,0 +1,6 @@
+B:\Unity\Projects\Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+B:\Unity\Projects\Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\bin\Release\ConsoleApp1.exe
+B:\Unity\Projects\Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+B:\Unity\Projects\Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Release\GameServer.csproj.CoreCompileInputs.cache
+B:\Unity\Projects\Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Release\ConsoleApp1.exe
+B:\Unity\Projects\Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Release\ConsoleApp1.pdb

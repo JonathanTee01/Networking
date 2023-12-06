@@ -1,0 +1,7 @@
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Debug\GameServer.csproj.AssemblyReference.cache
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Uni stuff\PortfolioItems\CMP303_Networking\CMP303_Server\CMP303_GameServer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
